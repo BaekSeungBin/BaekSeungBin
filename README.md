@@ -2,7 +2,7 @@
 <h1>🐣 안녕하세요! 백승빈입니다 👋</h1>
 
 <p>🌱 영남대학교 컴퓨터공학을 전공 중이며, <strong>게임 개발자</strong>나 <strong>웹 개발자</strong>가 되고 싶습니다.</p>
-<p>🎮 현재 게임 개발은 컨셉과 장르 정도만 구상해놓은 상태입니다.</p>
+<p>🎮 현재 게임 개발중 입니다!</p>
 <p>🎧 게임은 종합 예술이라 음악과 그림도 간단하게 느낌 정도만 알아보고 있어요. 🎨</p>
 <p>💡 스스로 사고하고 판단할 수 있는 개발자가 되고 싶어요.</p>
 
@@ -24,7 +24,8 @@
 
 <h2>✨ 대학 졸업 전에는 반드시 하고 싶은 프로젝트</h2>
 <ul>
-  <li>간단한 게임 개발 프로젝트</li>
+  <li>간단한 게임 개발 프로젝트
+    (<a href="https://github.com/BaekSeungBin/IMMUNIA" target="_blank">현재 진행 중: IMMUNIA</a>)</li>
   <li>웹 사이트 클론코딩</li>
   <li>HTML을 사용한 웹 게임 개발 프로젝트</li>
   <li>GitHub 외 나만의 학술/기록 홈페이지 제작</li>
@@ -66,7 +67,8 @@
 
   <h3>✨ Projects I Want to Complete Before Graduation</h3>
   <ul>
-    <li>A simple game development project</li>
+    <li>A simple game development project
+    (<a href="https://github.com/BaekSeungBin/IMMUNIA" target="_blank">Currently working on: IMMUNIA</a>)</li>
     <li>Cloning popular websites</li>
     <li>A small web game using HTML</li>
     <li>Creating my own academic/blog homepage separate from GitHub</li>
@@ -98,7 +100,8 @@
 
   <h3>✨ 大学卒業までにやりたいプロジェクト</h3>
   <ul>
-    <li>シンプルなゲーム開発プロジェクト</li>
+    <li>シンプルなゲーム開発プロジェクト
+     (<a href="https://github.com/BaekSeungBin/IMMUNIA" target="_blank">現在開発中: IMMUNIA</a>)</li>
     <li>有名なWebサイトのクローン制作</li>
     <li>HTMLで作るミニWebゲーム</li>
     <li>GitHub以外で自分専用の記録・学習ホームページを作成</li>
