@@ -26,8 +26,6 @@
   <h2>🙋‍♂️ About Me</h2>
   <p>
     🌱 I'm currently learning <strong>Game Development</strong> and <strong>Web Programming</strong>.<br>
-    💡 My goal is to become a developer who can <strong>think independently</strong> and create with purpose.<br>
-    🎧 I enjoy <strong>music</strong>, <strong>games</strong>, and <strong>creative projects</strong>.<br>
   </p>
 
   <br>
