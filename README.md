@@ -52,20 +52,12 @@
 <div align="center">
 
 <img
-  src="https://github-readme-stats.vercel.app/api?username=BaekSeungBin&show_icons=true&hide_border=true&theme=transparent"
+  src="https://streak-stats.demolab.com?user=BaekSeungBin&theme=transparent&hide_border=true"
   height="160"
-  alt="GitHub Stats"
-/>
-
-<img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=BaekSeungBin&layout=compact&hide_border=true&theme=transparent"
-  height="160"
-  alt="Top Languages"
+  alt="GitHub Streak"
 />
 
 </div>
-
----
 
 ## Contact
 
